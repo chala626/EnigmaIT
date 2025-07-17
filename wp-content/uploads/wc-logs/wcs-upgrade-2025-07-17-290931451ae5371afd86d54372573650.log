@@ -1,0 +1,26 @@
+2025-07-17T14:06:19+00:00 NOTICE 3.1.0 - No subscription webhooks found using API version 3. No updates needed. CONTEXT: {"_legacy":true}
+2025-07-17T14:06:19+00:00 NOTICE 8.3.0 - Updating subscription email settings. CONTEXT: {"_legacy":true}
+2025-07-17T14:06:19+00:00 NOTICE Subscription email settings not found: woocommerce_cancelled_subscription_settings. CONTEXT: {"_legacy":true}
+2025-07-17T14:06:19+00:00 NOTICE Subscription email settings not found: woocommerce_customer_completed_renewal_order_settings. CONTEXT: {"_legacy":true}
+2025-07-17T14:06:19+00:00 NOTICE Subscription email settings not found: woocommerce_customer_completed_switch_order_settings. CONTEXT: {"_legacy":true}
+2025-07-17T14:06:19+00:00 NOTICE Subscription email settings not found: woocommerce-subscriptions_customer_notification_auto_renewal_settings. CONTEXT: {"_legacy":true}
+2025-07-17T14:06:19+00:00 NOTICE Subscription email settings not found: woocommerce-subscriptions_customer_notification_auto_trial_expiry_settings. CONTEXT: {"_legacy":true}
+2025-07-17T14:06:19+00:00 NOTICE Subscription email settings not found: woocommerce-subscriptions_customer_notification_manual_renewal_settings. CONTEXT: {"_legacy":true}
+2025-07-17T14:06:19+00:00 NOTICE Subscription email settings not found: woocommerce-subscriptions_customer_notification_manual_trial_expiry_settings. CONTEXT: {"_legacy":true}
+2025-07-17T14:06:19+00:00 NOTICE Subscription email settings not found: woocommerce-subscriptions_customer_notification_auto_trial_expiry_settings. CONTEXT: {"_legacy":true}
+2025-07-17T14:06:19+00:00 NOTICE Subscription email settings not found: woocommerce_customer_on_hold_renewal_order_settings. CONTEXT: {"_legacy":true}
+2025-07-17T14:06:19+00:00 NOTICE Subscription email settings not found: woocommerce_customer_renewal_invoice_settings. CONTEXT: {"_legacy":true}
+2025-07-17T14:06:19+00:00 NOTICE Subscription email settings not found: woocommerce_expired_subscription_settings. CONTEXT: {"_legacy":true}
+2025-07-17T14:06:19+00:00 NOTICE Subscription email settings not found: woocommerce_new_renewal_order_settings. CONTEXT: {"_legacy":true}
+2025-07-17T14:06:19+00:00 NOTICE Subscription email settings not found: woocommerce_new_switch_order_settings. CONTEXT: {"_legacy":true}
+2025-07-17T14:06:19+00:00 NOTICE Subscription email settings not found: woocommerce_customer_processing_renewal_order_settings. CONTEXT: {"_legacy":true}
+2025-07-17T14:06:19+00:00 NOTICE Subscription email settings not found: woocommerce_suspended_subscription_settings. CONTEXT: {"_legacy":true}
+2025-07-17T14:06:19+00:00 NOTICE WooCommerce Subscriptions completed its upgrade to 7.7.0 from 0 while WooCommerce WC_VERSION 10.0.2 and database version 10.0.2 was active. CONTEXT: {"_legacy":true}
+2025-07-17T14:06:19+00:00 NOTICE Environment info: CONTEXT: {"_legacy":true}
+2025-07-17T14:06:19+00:00 NOTICE     WordPress Version : 6.8.1 CONTEXT: {"_legacy":true}
+2025-07-17T14:06:19+00:00 NOTICE Active Plugins: CONTEXT: {"_legacy":true}
+2025-07-17T14:06:19+00:00 NOTICE     Elementor Pro by Elementor.com – 3.30.0 CONTEXT: {"_legacy":true}
+2025-07-17T14:06:19+00:00 NOTICE     Elementor by Elementor.com – 3.30.2 CONTEXT: {"_legacy":true}
+2025-07-17T14:06:19+00:00 NOTICE     WooCommerce All Products for Subscriptions by Woo – 6.0.6 CONTEXT: {"_legacy":true}
+2025-07-17T14:06:19+00:00 NOTICE     WooCommerce Subscriptions by WooCommerce – 7.7.0 CONTEXT: {"_legacy":true}
+2025-07-17T14:06:19+00:00 NOTICE     WooCommerce by Automattic – 10.0.2 CONTEXT: {"_legacy":true}
